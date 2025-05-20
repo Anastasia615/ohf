@@ -18,7 +18,7 @@
 
 ## 2. Анализ исходной реализации
 
-См. [Issue #1](https://github.com/yourname/UDF-optimization/issues/1)
+См. [Issue #1](https://github.com/Anastasia615/ohf/issues/1)
 
 Ключевые проблемы:
 | Проблема | Описание |
@@ -32,7 +32,7 @@
 
 ## 3. Оптимизированный запрос
 
-См. [Issue #2](https://github.com/yourname/UDF-optimization/issues/2)
+См. [Issue #2](https://github.com/Anastasia615/ohf/issues/2)
 
 ```sql
 SELECT TOP (3000)
@@ -82,7 +82,7 @@ ORDER BY w.Id_Work DESC;
 
 ## 5. Архитектурные улучшения
 
-См. [Issue #3](https://github.com/yourname/UDF-optimization/issues/3)
+См. [Issue #3](https://github.com/Anastasia615/ohf/issues/3)
 
 ### 💡 Идеи:
 - Индекс на `(WorkItem.id_work, is_complit)`
